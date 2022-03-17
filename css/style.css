@@ -284,11 +284,11 @@ body {
 
 
 .img_wrap{
-  border: 1px solid #ddd;
   width: auto;
   height: auto;
   margin: 0 auto;
   overflow: auto;
+border-radius: 10px;
 }
 .img_wrap img{
   width: 100%;
