@@ -271,3 +271,31 @@ body {
 .ws,.wl {width: 94%;}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+.img_wrap{
+  border: 1px solid #ddd;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  overflow: auto;
+}
+.img_wrap img{
+  width: 100%;
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
+.img_wrap:hover img{
+  opacity: 0.6;
+  transition-duration: 0.3s;
+}
