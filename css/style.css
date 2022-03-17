@@ -129,7 +129,8 @@ header {
 }
 /*h4見出しの設定*/
 .list h4 {
-	color: #546247;	/*文字色*/
+	color: #black;/*文字色*/
+    font-size:20px;
 }
 /*画像の設定*/
 .list img {
