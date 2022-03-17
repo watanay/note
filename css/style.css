@@ -286,7 +286,7 @@ body {
 .img_wrap{
   width: auto;
   height: auto;
-  margin: 0 auto;
+  margin:  auto;
   overflow: auto;
 border-radius: 10px;
 }
